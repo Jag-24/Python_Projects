@@ -16,4 +16,4 @@ if bmi > 25:
     print("is overweight")
 if bmi < 18:
     print(Name)
-    print("is underweght")
+    print("is underweight")
